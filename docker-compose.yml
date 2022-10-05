@@ -12,5 +12,5 @@ volumes:
     driver: local
     driver_opts:
       o: bind
-      type: none
+      type: bind
       device: /home/ubuntu/Flask-Python-Aliya/volumes
